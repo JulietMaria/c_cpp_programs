@@ -23,3 +23,9 @@ int main()
 
     return 0;
 }
+/*
+array in asecnding order:12 18 28 30 32 48 56
+Output
+30 k=4
+18 k=2
+*/
