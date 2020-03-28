@@ -44,6 +44,18 @@ int main()
     }
     
       return 0;      
-    
-
 }
+/*
+Output
+17
+-1
+
+Output
+7
+2 5
+
+Output
+25
+2 23
+
+*/
