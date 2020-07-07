@@ -1,3 +1,2 @@
-# c_programs
+# c and cpp programs
 
-Interesting programs and problems in c
