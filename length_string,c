@@ -1,0 +1,16 @@
+/*Find the length of the string without using in-built function
+Sample Input
+i like apple
+Sample Output
+12
+*/
+
+#include <stdio.h>
+int main() {
+char s[20];
+    scanf("%[^\n]s",s);
+    int len;
+    for(len=0;s[len];len++);
+    printf("%d",len);
+    return 0;
+}
